@@ -1,4 +1,4 @@
-Enterprise VLAN Design – README
+Enterprise VLAN Design – 
 🔹 Project Description
 
 Enterprise VLAN Design demonstrates the implementation of Virtual Local Area Network (VLAN) segmentation in a multi-department office environment using a Cisco 2960 switch in Cisco Packet Tracer.
