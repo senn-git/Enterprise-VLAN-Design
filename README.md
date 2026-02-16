@@ -1,13 +1,13 @@
 # Enterprise VLAN Design
 
-## 📌 Project Overview
+## Project Overview
 Enterprise VLAN Design demonstrates the implementation of Virtual Local Area Network (VLAN) segmentation in a multi-department office environment using a Cisco 2960 switch in Cisco Packet Tracer.
 
 The network is logically divided into three departments — HR, IT, and Finance — to enhance security, control broadcast traffic, and improve overall network management.
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - Cisco Packet Tracer
 - Cisco 2960 Switch
 - End Devices (PCs)
@@ -16,7 +16,7 @@ The network is logically divided into three departments — HR, IT, and Finance 
 
 ---
 
-## 🌐 Network Design
+## Network Design
 
 | Department | VLAN Name | VLAN ID | Ports Assigned | No. of PCs |
 |-----------|------------|---------|----------------|------------|
@@ -26,7 +26,7 @@ The network is logically divided into three departments — HR, IT, and Finance 
 
 ---
 
-## 🔧 Configuration Summary
+## Configuration Summary
 
 - Created VLANs on the Cisco 2960 switch:
   - **VLAN 5 → HR Department**
@@ -43,7 +43,7 @@ The network is logically divided into three departments — HR, IT, and Finance 
 
 ---
 
-## 🧪 Communication Testing
+## Communication Testing
 
 Message transfer tests were performed to verify VLAN isolation:
 
@@ -56,7 +56,7 @@ These results confirm that communication is allowed only within the same VLAN, w
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Implement enterprise-level network segmentation  
 - Improve security between departments  
@@ -66,7 +66,7 @@ These results confirm that communication is allowed only within the same VLAN, w
 
 ---
 
-## 🖼 Screenshots Included
+## Screenshots Included
 
 - Network topology showing VLAN segmentation  
 - VLAN creation on switch CLI  
@@ -75,14 +75,14 @@ These results confirm that communication is allowed only within the same VLAN, w
 
 ---
 
-## 📂 Files Included
+## Files Included
 
 - `.pkt` file containing the complete VLAN network setup  
 - Configuration and testing screenshots  
 
 ---
 
-## 🎓 Learning Outcomes
+## Learning Outcomes
 
 - Practical understanding of VLAN segmentation  
 - Experience configuring VLANs on Cisco switches  
@@ -91,7 +91,7 @@ These results confirm that communication is allowed only within the same VLAN, w
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - Configure Inter-VLAN Routing using a router or Layer 3 switch  
 - Implement VLAN trunking between multiple switches  
